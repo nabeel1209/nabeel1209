@@ -1,4 +1,4 @@
-![alt text](./headerImage.png)
+<img src="./headerImage.png" width=100%>
 
 <!--
 **nabeel1209/nabeel1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
